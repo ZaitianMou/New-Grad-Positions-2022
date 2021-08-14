@@ -44,24 +44,24 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |--[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search#) | NYC, Alpharetta | |
 |---[Vanguard](https://www.vanguardjobs.com/job-search-results/?category=Technology&level%5B%5D=Student%20%26%20Recent%20Graduates) | Multiple | |
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
-|[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
+|--[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | |
 |[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
-|[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) | 
+|--[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) | 
 |[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/) | Chicago, Austin | [SWE (Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/), [SWE (Austin)](https://www.optiver.com/working-at-optiver/career-opportunities/5423874002/) | 
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000044848ENUS/Entry-Level-Global-Product-Development-Software-Engineer-Rotational-Program) | Warren, Michigan, United States of America | Entry Level Global Product Development – Software Engineer Rotational Program |
 |[Nova Credit](https://jobs.lever.co/neednova/27786c27-5092-43ae-b287-44ccfa72511f) | NYC, SF | |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | Seattle | |
-|[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Multiple positions, listed under University at bottom of the page|
-|[Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4) | Palo Alto, CA |  |
+|--[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Multiple positions, listed under University at bottom of the page|
+|--[Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4) | Palo Alto, CA |  |
 |[PEAK6](https://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineer-campus-entry-level/3193254?gh_jid=3193254#/) | Chicago, IL |  |
-|[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3185067) | San Mateo, CA |  |
+|---[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3185067) | San Mateo, CA |  |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5422486002?gh_src=10b1cce22us) | Pittsburgh, PA |  |
 |[L3Harris](https://careers.l3harris.com/search-jobs/Software%20engineer%20new%20grad/4832/1?glat=40.71066&glon=-73.99903) | Many |  |
 |[Secureframe](https://jobs.lever.co/secureframe/d90aa468-f846-413f-a9c9-0834d3dfa9d7) | SF (remote) |  |
 |[Keysight Technologies](https://jobs.keysight.com/job/Santa-Rosa-R&D-Engineer-2%2C-Software-CA-95401/768839700/) | Santa Rosa, CA |  |
-|[Citrix](https://jobs.citrix.com/job/R27644/University-Software-Engineer-2022) | Multiple |  |
+|---[Citrix](https://jobs.citrix.com/job/R27644/University-Software-Engineer-2022) | Multiple |  |
 |[HubSpot](https://www.hubspot.com/careers/jobs/1847807?hubs_signup-cta=careers-apply) | Cambridge |  |
 |[Nuro](https://www.nuro.ai/careersitem?gh_jid=3355701) | Mountain View |  |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594) | Multiple |  |
